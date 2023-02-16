@@ -109,7 +109,7 @@ deploy:
   type: git
   repo: 
       github: git@github.com:MIKU552/miku552hexo.github.io.git
-      coding: git@e.coding.net:miku552/miku552hexo.git
+      # coding: git@e.coding.net:miku552/miku552hexo.git
   branch: master
 
 # Search
